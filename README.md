@@ -18,6 +18,12 @@ dependencies {
 }
 ```
 
+```java
+SnowFlake.getInstance().nextId()
+```
+
+
+
 ###License
 
 ```
